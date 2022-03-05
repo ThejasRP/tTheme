@@ -3,7 +3,7 @@
   "displayName": "tTheme",
   "description": "The ultimate VS Code Dark Theme!",
   "version": "2.0.0",
-  "publisher": "Thejas",
+  "publisher": "ThejasRP",
   "icon": "assets/images/icon.png",
   "engines": {
     "vscode": "^1.65.0"
