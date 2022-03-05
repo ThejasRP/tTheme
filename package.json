@@ -1,0 +1,52 @@
+{
+  "name": "ttheme",
+  "displayName": "tTheme",
+  "description": "The ultimate VS Code Dark Theme!",
+  "version": "2.0.0",
+  "publisher": "Thejas",
+  "icon": "assets/images/icon.png",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "license": "https://github.com/ThejasRP/tTheme/blob/main/LICENSE",
+  "homepage": "https://github.com/ThejasRP/tTheme/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/ThejasRP/tTheme/issues",
+    "email": "dsttdevelopers@gmail.com"
+  },
+  "keywords": [
+    "Thejas",
+    "ThejasRP",
+    "Dev",
+    "tTheme",
+    "Theme",
+    "t",
+    "Dark",
+    "Dark Theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThejasRP/tTheme.git"
+  },
+  "galleryBanner": {
+    "color": "#dc143c",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tTheme-base.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "Thejas",
+    "url": "https://thejasraop.pages.dev/",
+    "email": "dsttdevelopers@gmail.com"
+  }
+}
